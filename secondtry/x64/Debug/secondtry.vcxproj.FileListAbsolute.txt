@@ -1,0 +1,5 @@
+C:\Users\suyas\OneDrive\Desktop\secondtry\x64\Debug\secondtry.vcxproj.AssemblyReference.cache
+C:\Users\suyas\OneDrive\Desktop\secondtry\x64\Debug\secondtry.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\suyas\OneDrive\Desktop\secondtry\x64\Debug\secondtry.MyForm.resources
+C:\Users\suyas\OneDrive\Desktop\secondtry\x64\Debug\secondtry.vcxproj.GenerateResource.cache
+C:\Users\suyas\OneDrive\Desktop\secondtry\x64\Debug\secondtry.exe
